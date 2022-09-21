@@ -1,4 +1,4 @@
-package com.devsuperior.dsclient.resources.exceptions;
+package com.devsuperior.dsclient.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
 
